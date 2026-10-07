@@ -1,16 +1,25 @@
 <p align="center">
-  <img src="assets/grass-cow-layout-v15.gif" width="900" alt="草地牛坐在阳光明媚的窗边，时而敲代码，时而思考；桌上放着电脑、笔、本和咖啡，窗外是杨柳与鲜花。" />
+  <img src="assets/grass-cow-polished-v16.gif" width="768" alt="草地牛在阳光明媚的窗边敲键盘，眨眼并偶尔同时抖动两只耳朵。桌上有笔、本和咖啡，窗外有杨柳与鲜花。" />
 </p>
 
 # Hi! I'm Jinyang Wang. 👋
 
+**Code, ideas & a little sunshine. ☀️**
+
+Welcome to my corner of GitHub — a place for code, ideas, and a very focused cow. 🐮
+
+欢迎来到我的 GitHub 小天地：写代码、记录想法，也给灵感留一点阳光。
+
 <p>
   <a href="https://github.com/u8179499"><img src="https://img.shields.io/badge/GitHub-u8179499-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub: u8179499" /></a>
+  · <a href="https://github.com/u8179499?tab=repositories">Explore my repositories</a>
 </p>
 
 ---
 
 ## 🧰 Languages, Frameworks, Tools & Skills
+
+**Languages & Markup**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -20,13 +29,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+**Data, Visualization & Machine Learning**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
@@ -36,15 +47,25 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white)
+
+**Web & Applications**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+**Databases & Data Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Development & Workflow**
+
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
