@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/grass-cow-trophies-v12.gif" width="900" alt="草地牛坐在阳光明媚的窗边，时而敲代码，时而思考；桌上放着电脑、笔、本和咖啡，窗外是杨柳与鲜花。" />
+  <img src="assets/grass-cow-photo-v14.gif" width="900" alt="草地牛坐在阳光明媚的窗边，时而敲代码，时而思考；桌上放着电脑、笔、本和咖啡，窗外是杨柳与鲜花。" />
 </p>
 
 # Hi! I'm Jinyang Wang. 👋
