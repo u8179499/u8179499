@@ -4,11 +4,20 @@
 
 # Hi! I'm Jinyang Wang. 👋
 
-**Code, ideas & a little sunshine. ☀️**
+**🎓 Master's in Computer Science · Australian National University (ANU)**
 
-Welcome to my corner of GitHub — a place for code, ideas, and a very focused cow. 🐮
+我是澳大利亚国立大学（ANU）的计算机硕士，主攻人工智能（AI）、机器学习与软件开发。
 
-欢迎来到我的 GitHub 小天地：写代码、记录想法，也给灵感留一点阳光。
+My focus is on artificial intelligence, machine learning, and software development.
+
+**🗣️ Languages**
+
+![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-2E8B57?style=flat-square)
+![English](https://img.shields.io/badge/English-3776AB?style=flat-square)
+
+**📬 Get in touch**
+
+[646658313@qq.com](mailto:646658313@qq.com) · [jython617@gmail.com](mailto:jython617@gmail.com)
 
 <p>
   <a href="https://github.com/u8179499"><img src="https://img.shields.io/badge/GitHub-u8179499-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub: u8179499" /></a>
