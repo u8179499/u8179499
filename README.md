@@ -1,18 +1,16 @@
 <p align="center">
-  <img src="assets/grass-cow-polished-v16.gif" width="768" alt="草地牛在阳光明媚的窗边敲键盘，眨眼并偶尔同时抖动两只耳朵。桌上有笔、本和咖啡，窗外有杨柳与鲜花。" />
+  <img src="assets/grass-cow-polished-v16.gif" width="768" alt="A grassland cow types by a sunny window, blinking and occasionally flicking both ears. A notebook, pen and coffee sit on the desk, with willow trees and flowers outside." />
 </p>
 
 # Hi! I'm Jinyang Wang. 👋
 
 **🎓 Master's in Computer Science · Australian National University (ANU)**
 
-我是澳大利亚国立大学（ANU）的计算机硕士，主攻人工智能（AI）、机器学习与软件开发。
-
 My focus is on artificial intelligence, machine learning, and software development.
 
 **🗣️ Languages**
 
-![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-2E8B57?style=flat-square)
+![Chinese](https://img.shields.io/badge/Chinese-2E8B57?style=flat-square)
 ![English](https://img.shields.io/badge/English-3776AB?style=flat-square)
 
 **📬 Get in touch**
