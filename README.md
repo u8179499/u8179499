@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="assets/grass-cow-hd-still-v17.png">
-    <img src="assets/grass-cow-hd-v17.webp" width="900" alt="A grassland cow types by a sunny window, blinking and occasionally flicking both ears. A notebook, pen and coffee sit on the desk, with willow trees and flowers outside." />
+  <a href="assets/grass-cow-hd-still-v18.png">
+    <img src="assets/grass-cow-hd-hooves-v18.webp" width="900" alt="A grassland cow types by a sunny window, blinking and occasionally flicking both ears. A notebook, pen and coffee sit on the desk, with willow trees and flowers outside." />
   </a>
 </p>
 
 <p align="center">
-  <a href="assets/grass-cow-hd-still-v17.png">View full-resolution image</a> · <a href="assets/cow-wang-keepsake-v14.png">View keepsake photo</a>
+  <a href="assets/grass-cow-hd-still-v18.png">View full-resolution image</a> · <a href="assets/cow-wang-keepsake-v14.png">View keepsake photo</a>
 </p>
 
 # Hi! I'm Jinyang Wang. 👋
